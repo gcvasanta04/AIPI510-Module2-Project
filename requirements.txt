@@ -1,2 +1,6 @@
 requests>=2.31
 datasets>=2.18
+pandas>=2.0
+scipy>=1.10
+statsmodels>=0.14
+matplotlib>=3.7
