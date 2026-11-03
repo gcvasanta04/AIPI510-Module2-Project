@@ -1,0 +1,3002 @@
+[
+ {
+  "item_id": 1723,
+  "subject": "conceptual_physics",
+  "gold": "B"
+ },
+ {
+  "item_id": 11219,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 3248,
+  "subject": "high_school_computer_science",
+  "gold": "D"
+ },
+ {
+  "item_id": 12757,
+  "subject": "professional_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 8214,
+  "subject": "moral_disputes",
+  "gold": "A"
+ },
+ {
+  "item_id": 7244,
+  "subject": "marketing",
+  "gold": "D"
+ },
+ {
+  "item_id": 2079,
+  "subject": "elementary_mathematics",
+  "gold": "C"
+ },
+ {
+  "item_id": 4869,
+  "subject": "high_school_physics",
+  "gold": "B"
+ },
+ {
+  "item_id": 2868,
+  "subject": "high_school_biology",
+  "gold": "A"
+ },
+ {
+  "item_id": 2768,
+  "subject": "high_school_biology",
+  "gold": "B"
+ },
+ {
+  "item_id": 8944,
+  "subject": "moral_scenarios",
+  "gold": "A"
+ },
+ {
+  "item_id": 7821,
+  "subject": "miscellaneous",
+  "gold": "B"
+ },
+ {
+  "item_id": 4851,
+  "subject": "high_school_physics",
+  "gold": "D"
+ },
+ {
+  "item_id": 2578,
+  "subject": "global_facts",
+  "gold": "B"
+ },
+ {
+  "item_id": 10277,
+  "subject": "prehistory",
+  "gold": "A"
+ },
+ {
+  "item_id": 7655,
+  "subject": "miscellaneous",
+  "gold": "A"
+ },
+ {
+  "item_id": 333,
+  "subject": "astronomy",
+  "gold": "C"
+ },
+ {
+  "item_id": 5429,
+  "subject": "high_school_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 3183,
+  "subject": "high_school_computer_science",
+  "gold": "A"
+ },
+ {
+  "item_id": 12341,
+  "subject": "professional_medicine",
+  "gold": "D"
+ },
+ {
+  "item_id": 12734,
+  "subject": "professional_psychology",
+  "gold": "C"
+ },
+ {
+  "item_id": 9886,
+  "subject": "philosophy",
+  "gold": "A"
+ },
+ {
+  "item_id": 9523,
+  "subject": "nutrition",
+  "gold": "D"
+ },
+ {
+  "item_id": 12563,
+  "subject": "professional_psychology",
+  "gold": "B"
+ },
+ {
+  "item_id": 1629,
+  "subject": "conceptual_physics",
+  "gold": "D"
+ },
+ {
+  "item_id": 5155,
+  "subject": "high_school_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 11470,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 2405,
+  "subject": "elementary_mathematics",
+  "gold": "C"
+ },
+ {
+  "item_id": 10861,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 509,
+  "subject": "clinical_knowledge",
+  "gold": "A"
+ },
+ {
+  "item_id": 13606,
+  "subject": "us_foreign_policy",
+  "gold": "A"
+ },
+ {
+  "item_id": 1615,
+  "subject": "conceptual_physics",
+  "gold": "D"
+ },
+ {
+  "item_id": 5521,
+  "subject": "high_school_statistics",
+  "gold": "C"
+ },
+ {
+  "item_id": 11716,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 7257,
+  "subject": "marketing",
+  "gold": "C"
+ },
+ {
+  "item_id": 1985,
+  "subject": "electrical_engineering",
+  "gold": "C"
+ },
+ {
+  "item_id": 6734,
+  "subject": "logical_fallacies",
+  "gold": "C"
+ },
+ {
+  "item_id": 9413,
+  "subject": "nutrition",
+  "gold": "D"
+ },
+ {
+  "item_id": 7729,
+  "subject": "miscellaneous",
+  "gold": "C"
+ },
+ {
+  "item_id": 5541,
+  "subject": "high_school_statistics",
+  "gold": "D"
+ },
+ {
+  "item_id": 12352,
+  "subject": "professional_medicine",
+  "gold": "B"
+ },
+ {
+  "item_id": 13662,
+  "subject": "us_foreign_policy",
+  "gold": "D"
+ },
+ {
+  "item_id": 3247,
+  "subject": "high_school_computer_science",
+  "gold": "D"
+ },
+ {
+  "item_id": 13828,
+  "subject": "virology",
+  "gold": "B"
+ },
+ {
+  "item_id": 4454,
+  "subject": "high_school_mathematics",
+  "gold": "A"
+ },
+ {
+  "item_id": 12470,
+  "subject": "professional_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 7317,
+  "subject": "medical_genetics",
+  "gold": "B"
+ },
+ {
+  "item_id": 6905,
+  "subject": "machine_learning",
+  "gold": "A"
+ },
+ {
+  "item_id": 10012,
+  "subject": "philosophy",
+  "gold": "C"
+ },
+ {
+  "item_id": 7315,
+  "subject": "medical_genetics",
+  "gold": "C"
+ },
+ {
+  "item_id": 96,
+  "subject": "abstract_algebra",
+  "gold": "B"
+ },
+ {
+  "item_id": 4823,
+  "subject": "high_school_physics",
+  "gold": "C"
+ },
+ {
+  "item_id": 5282,
+  "subject": "high_school_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 7540,
+  "subject": "miscellaneous",
+  "gold": "B"
+ },
+ {
+  "item_id": 13291,
+  "subject": "security_studies",
+  "gold": "B"
+ },
+ {
+  "item_id": 4580,
+  "subject": "high_school_microeconomics",
+  "gold": "C"
+ },
+ {
+  "item_id": 13434,
+  "subject": "sociology",
+  "gold": "D"
+ },
+ {
+  "item_id": 9361,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 8613,
+  "subject": "moral_scenarios",
+  "gold": "C"
+ },
+ {
+  "item_id": 5555,
+  "subject": "high_school_statistics",
+  "gold": "C"
+ },
+ {
+  "item_id": 66,
+  "subject": "abstract_algebra",
+  "gold": "D"
+ },
+ {
+  "item_id": 10178,
+  "subject": "prehistory",
+  "gold": "B"
+ },
+ {
+  "item_id": 9634,
+  "subject": "nutrition",
+  "gold": "C"
+ },
+ {
+  "item_id": 8067,
+  "subject": "miscellaneous",
+  "gold": "B"
+ },
+ {
+  "item_id": 9241,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 21,
+  "subject": "abstract_algebra",
+  "gold": "A"
+ },
+ {
+  "item_id": 9176,
+  "subject": "moral_scenarios",
+  "gold": "C"
+ },
+ {
+  "item_id": 8095,
+  "subject": "miscellaneous",
+  "gold": "D"
+ },
+ {
+  "item_id": 9611,
+  "subject": "nutrition",
+  "gold": "A"
+ },
+ {
+  "item_id": 2129,
+  "subject": "elementary_mathematics",
+  "gold": "D"
+ },
+ {
+  "item_id": 7665,
+  "subject": "miscellaneous",
+  "gold": "B"
+ },
+ {
+  "item_id": 11694,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 5096,
+  "subject": "high_school_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 7553,
+  "subject": "miscellaneous",
+  "gold": "A"
+ },
+ {
+  "item_id": 12189,
+  "subject": "professional_medicine",
+  "gold": "D"
+ },
+ {
+  "item_id": 13852,
+  "subject": "virology",
+  "gold": "A"
+ },
+ {
+  "item_id": 12055,
+  "subject": "professional_law",
+  "gold": "A"
+ },
+ {
+  "item_id": 9344,
+  "subject": "moral_scenarios",
+  "gold": "C"
+ },
+ {
+  "item_id": 11043,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 12064,
+  "subject": "professional_law",
+  "gold": "A"
+ },
+ {
+  "item_id": 9068,
+  "subject": "moral_scenarios",
+  "gold": "A"
+ },
+ {
+  "item_id": 10792,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 5302,
+  "subject": "high_school_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 6821,
+  "subject": "logical_fallacies",
+  "gold": "A"
+ },
+ {
+  "item_id": 8198,
+  "subject": "moral_disputes",
+  "gold": "C"
+ },
+ {
+  "item_id": 11036,
+  "subject": "professional_law",
+  "gold": "A"
+ },
+ {
+  "item_id": 6917,
+  "subject": "machine_learning",
+  "gold": "B"
+ },
+ {
+  "item_id": 3913,
+  "subject": "high_school_macroeconomics",
+  "gold": "D"
+ },
+ {
+  "item_id": 13274,
+  "subject": "security_studies",
+  "gold": "A"
+ },
+ {
+  "item_id": 11171,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 4963,
+  "subject": "high_school_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 4541,
+  "subject": "high_school_microeconomics",
+  "gold": "D"
+ },
+ {
+  "item_id": 5650,
+  "subject": "high_school_us_history",
+  "gold": "D"
+ },
+ {
+  "item_id": 8266,
+  "subject": "moral_disputes",
+  "gold": "C"
+ },
+ {
+  "item_id": 5748,
+  "subject": "high_school_us_history",
+  "gold": "C"
+ },
+ {
+  "item_id": 13542,
+  "subject": "sociology",
+  "gold": "D"
+ },
+ {
+  "item_id": 9001,
+  "subject": "moral_scenarios",
+  "gold": "C"
+ },
+ {
+  "item_id": 6075,
+  "subject": "high_school_world_history",
+  "gold": "A"
+ },
+ {
+  "item_id": 4439,
+  "subject": "high_school_mathematics",
+  "gold": "C"
+ },
+ {
+  "item_id": 7019,
+  "subject": "management",
+  "gold": "B"
+ },
+ {
+  "item_id": 12884,
+  "subject": "professional_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 11320,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 9018,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 6791,
+  "subject": "logical_fallacies",
+  "gold": "B"
+ },
+ {
+  "item_id": 6388,
+  "subject": "human_sexuality",
+  "gold": "A"
+ },
+ {
+  "item_id": 8073,
+  "subject": "miscellaneous",
+  "gold": "B"
+ },
+ {
+  "item_id": 13070,
+  "subject": "public_relations",
+  "gold": "B"
+ },
+ {
+  "item_id": 4826,
+  "subject": "high_school_physics",
+  "gold": "C"
+ },
+ {
+  "item_id": 8857,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 10127,
+  "subject": "prehistory",
+  "gold": "B"
+ },
+ {
+  "item_id": 6746,
+  "subject": "logical_fallacies",
+  "gold": "C"
+ },
+ {
+  "item_id": 11956,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 4459,
+  "subject": "high_school_mathematics",
+  "gold": "C"
+ },
+ {
+  "item_id": 12575,
+  "subject": "professional_psychology",
+  "gold": "C"
+ },
+ {
+  "item_id": 2660,
+  "subject": "global_facts",
+  "gold": "A"
+ },
+ {
+  "item_id": 12772,
+  "subject": "professional_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 629,
+  "subject": "clinical_knowledge",
+  "gold": "D"
+ },
+ {
+  "item_id": 1075,
+  "subject": "college_computer_science",
+  "gold": "D"
+ },
+ {
+  "item_id": 3096,
+  "subject": "high_school_chemistry",
+  "gold": "D"
+ },
+ {
+  "item_id": 2822,
+  "subject": "high_school_biology",
+  "gold": "D"
+ },
+ {
+  "item_id": 8908,
+  "subject": "moral_scenarios",
+  "gold": "A"
+ },
+ {
+  "item_id": 4587,
+  "subject": "high_school_microeconomics",
+  "gold": "C"
+ },
+ {
+  "item_id": 11041,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 9716,
+  "subject": "philosophy",
+  "gold": "D"
+ },
+ {
+  "item_id": 2632,
+  "subject": "global_facts",
+  "gold": "C"
+ },
+ {
+  "item_id": 6064,
+  "subject": "high_school_world_history",
+  "gold": "A"
+ },
+ {
+  "item_id": 7716,
+  "subject": "miscellaneous",
+  "gold": "A"
+ },
+ {
+  "item_id": 14018,
+  "subject": "world_religions",
+  "gold": "C"
+ },
+ {
+  "item_id": 10338,
+  "subject": "prehistory",
+  "gold": "D"
+ },
+ {
+  "item_id": 142,
+  "subject": "anatomy",
+  "gold": "B"
+ },
+ {
+  "item_id": 13145,
+  "subject": "public_relations",
+  "gold": "A"
+ },
+ {
+  "item_id": 600,
+  "subject": "clinical_knowledge",
+  "gold": "A"
+ },
+ {
+  "item_id": 586,
+  "subject": "clinical_knowledge",
+  "gold": "B"
+ },
+ {
+  "item_id": 5440,
+  "subject": "high_school_statistics",
+  "gold": "C"
+ },
+ {
+  "item_id": 13283,
+  "subject": "security_studies",
+  "gold": "C"
+ },
+ {
+  "item_id": 5764,
+  "subject": "high_school_us_history",
+  "gold": "B"
+ },
+ {
+  "item_id": 8391,
+  "subject": "moral_disputes",
+  "gold": "D"
+ },
+ {
+  "item_id": 3643,
+  "subject": "high_school_geography",
+  "gold": "A"
+ },
+ {
+  "item_id": 7952,
+  "subject": "miscellaneous",
+  "gold": "D"
+ },
+ {
+  "item_id": 9186,
+  "subject": "moral_scenarios",
+  "gold": "C"
+ },
+ {
+  "item_id": 10563,
+  "subject": "professional_accounting",
+  "gold": "C"
+ },
+ {
+  "item_id": 6401,
+  "subject": "human_sexuality",
+  "gold": "B"
+ },
+ {
+  "item_id": 5641,
+  "subject": "high_school_statistics",
+  "gold": "C"
+ },
+ {
+  "item_id": 6271,
+  "subject": "human_aging",
+  "gold": "A"
+ },
+ {
+  "item_id": 6627,
+  "subject": "jurisprudence",
+  "gold": "B"
+ },
+ {
+  "item_id": 3545,
+  "subject": "high_school_geography",
+  "gold": "B"
+ },
+ {
+  "item_id": 9131,
+  "subject": "moral_scenarios",
+  "gold": "B"
+ },
+ {
+  "item_id": 1158,
+  "subject": "college_mathematics",
+  "gold": "A"
+ },
+ {
+  "item_id": 11087,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 9597,
+  "subject": "nutrition",
+  "gold": "A"
+ },
+ {
+  "item_id": 12384,
+  "subject": "professional_medicine",
+  "gold": "D"
+ },
+ {
+  "item_id": 8925,
+  "subject": "moral_scenarios",
+  "gold": "C"
+ },
+ {
+  "item_id": 11517,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 4701,
+  "subject": "high_school_microeconomics",
+  "gold": "D"
+ },
+ {
+  "item_id": 9399,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 8909,
+  "subject": "moral_scenarios",
+  "gold": "A"
+ },
+ {
+  "item_id": 3875,
+  "subject": "high_school_macroeconomics",
+  "gold": "C"
+ },
+ {
+  "item_id": 498,
+  "subject": "clinical_knowledge",
+  "gold": "D"
+ },
+ {
+  "item_id": 12699,
+  "subject": "professional_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 10989,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 1837,
+  "subject": "econometrics",
+  "gold": "D"
+ },
+ {
+  "item_id": 9681,
+  "subject": "nutrition",
+  "gold": "B"
+ },
+ {
+  "item_id": 5529,
+  "subject": "high_school_statistics",
+  "gold": "B"
+ },
+ {
+  "item_id": 13458,
+  "subject": "sociology",
+  "gold": "A"
+ },
+ {
+  "item_id": 12595,
+  "subject": "professional_psychology",
+  "gold": "B"
+ },
+ {
+  "item_id": 10212,
+  "subject": "prehistory",
+  "gold": "D"
+ },
+ {
+  "item_id": 11619,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 13960,
+  "subject": "world_religions",
+  "gold": "A"
+ },
+ {
+  "item_id": 10866,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 2112,
+  "subject": "elementary_mathematics",
+  "gold": "C"
+ },
+ {
+  "item_id": 11409,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 3663,
+  "subject": "high_school_government_and_politics",
+  "gold": "C"
+ },
+ {
+  "item_id": 9559,
+  "subject": "nutrition",
+  "gold": "D"
+ },
+ {
+  "item_id": 5269,
+  "subject": "high_school_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 394,
+  "subject": "business_ethics",
+  "gold": "A"
+ },
+ {
+  "item_id": 10688,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 11174,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 6152,
+  "subject": "human_aging",
+  "gold": "B"
+ },
+ {
+  "item_id": 4516,
+  "subject": "high_school_microeconomics",
+  "gold": "B"
+ },
+ {
+  "item_id": 3371,
+  "subject": "high_school_european_history",
+  "gold": "B"
+ },
+ {
+  "item_id": 3389,
+  "subject": "high_school_european_history",
+  "gold": "A"
+ },
+ {
+  "item_id": 12878,
+  "subject": "professional_psychology",
+  "gold": "B"
+ },
+ {
+  "item_id": 10014,
+  "subject": "philosophy",
+  "gold": "C"
+ },
+ {
+  "item_id": 9735,
+  "subject": "philosophy",
+  "gold": "A"
+ },
+ {
+  "item_id": 1010,
+  "subject": "college_computer_science",
+  "gold": "A"
+ },
+ {
+  "item_id": 13492,
+  "subject": "sociology",
+  "gold": "D"
+ },
+ {
+  "item_id": 6855,
+  "subject": "machine_learning",
+  "gold": "C"
+ },
+ {
+  "item_id": 9568,
+  "subject": "nutrition",
+  "gold": "A"
+ },
+ {
+  "item_id": 10681,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 4221,
+  "subject": "high_school_macroeconomics",
+  "gold": "D"
+ },
+ {
+  "item_id": 7234,
+  "subject": "marketing",
+  "gold": "B"
+ },
+ {
+  "item_id": 424,
+  "subject": "business_ethics",
+  "gold": "D"
+ },
+ {
+  "item_id": 10245,
+  "subject": "prehistory",
+  "gold": "B"
+ },
+ {
+  "item_id": 5212,
+  "subject": "high_school_psychology",
+  "gold": "C"
+ },
+ {
+  "item_id": 4873,
+  "subject": "high_school_physics",
+  "gold": "A"
+ },
+ {
+  "item_id": 10835,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 6843,
+  "subject": "machine_learning",
+  "gold": "C"
+ },
+ {
+  "item_id": 5534,
+  "subject": "high_school_statistics",
+  "gold": "C"
+ },
+ {
+  "item_id": 410,
+  "subject": "business_ethics",
+  "gold": "A"
+ },
+ {
+  "item_id": 8549,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 253,
+  "subject": "astronomy",
+  "gold": "D"
+ },
+ {
+  "item_id": 5945,
+  "subject": "high_school_world_history",
+  "gold": "A"
+ },
+ {
+  "item_id": 4780,
+  "subject": "high_school_physics",
+  "gold": "C"
+ },
+ {
+  "item_id": 6250,
+  "subject": "human_aging",
+  "gold": "C"
+ },
+ {
+  "item_id": 6385,
+  "subject": "human_sexuality",
+  "gold": "D"
+ },
+ {
+  "item_id": 13288,
+  "subject": "security_studies",
+  "gold": "C"
+ },
+ {
+  "item_id": 7402,
+  "subject": "miscellaneous",
+  "gold": "A"
+ },
+ {
+  "item_id": 11790,
+  "subject": "professional_law",
+  "gold": "A"
+ },
+ {
+  "item_id": 7181,
+  "subject": "marketing",
+  "gold": "B"
+ },
+ {
+  "item_id": 8638,
+  "subject": "moral_scenarios",
+  "gold": "B"
+ },
+ {
+  "item_id": 13642,
+  "subject": "us_foreign_policy",
+  "gold": "C"
+ },
+ {
+  "item_id": 13140,
+  "subject": "public_relations",
+  "gold": "A"
+ },
+ {
+  "item_id": 12001,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 3273,
+  "subject": "high_school_computer_science",
+  "gold": "C"
+ },
+ {
+  "item_id": 9295,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 2871,
+  "subject": "high_school_biology",
+  "gold": "D"
+ },
+ {
+  "item_id": 6197,
+  "subject": "human_aging",
+  "gold": "C"
+ },
+ {
+  "item_id": 12946,
+  "subject": "professional_psychology",
+  "gold": "B"
+ },
+ {
+  "item_id": 3700,
+  "subject": "high_school_government_and_politics",
+  "gold": "D"
+ },
+ {
+  "item_id": 8352,
+  "subject": "moral_disputes",
+  "gold": "D"
+ },
+ {
+  "item_id": 3742,
+  "subject": "high_school_government_and_politics",
+  "gold": "D"
+ },
+ {
+  "item_id": 10942,
+  "subject": "professional_law",
+  "gold": "A"
+ },
+ {
+  "item_id": 5507,
+  "subject": "high_school_statistics",
+  "gold": "B"
+ },
+ {
+  "item_id": 7273,
+  "subject": "marketing",
+  "gold": "A"
+ },
+ {
+  "item_id": 13253,
+  "subject": "security_studies",
+  "gold": "C"
+ },
+ {
+  "item_id": 14003,
+  "subject": "world_religions",
+  "gold": "B"
+ },
+ {
+  "item_id": 3270,
+  "subject": "high_school_computer_science",
+  "gold": "C"
+ },
+ {
+  "item_id": 10183,
+  "subject": "prehistory",
+  "gold": "C"
+ },
+ {
+  "item_id": 9444,
+  "subject": "nutrition",
+  "gold": "D"
+ },
+ {
+  "item_id": 6403,
+  "subject": "human_sexuality",
+  "gold": "B"
+ },
+ {
+  "item_id": 5566,
+  "subject": "high_school_statistics",
+  "gold": "D"
+ },
+ {
+  "item_id": 3054,
+  "subject": "high_school_chemistry",
+  "gold": "B"
+ },
+ {
+  "item_id": 6337,
+  "subject": "human_sexuality",
+  "gold": "B"
+ },
+ {
+  "item_id": 9941,
+  "subject": "philosophy",
+  "gold": "C"
+ },
+ {
+  "item_id": 4321,
+  "subject": "high_school_mathematics",
+  "gold": "D"
+ },
+ {
+  "item_id": 13774,
+  "subject": "virology",
+  "gold": "C"
+ },
+ {
+  "item_id": 10815,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 3779,
+  "subject": "high_school_government_and_politics",
+  "gold": "D"
+ },
+ {
+  "item_id": 6091,
+  "subject": "human_aging",
+  "gold": "A"
+ },
+ {
+  "item_id": 8570,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 372,
+  "subject": "astronomy",
+  "gold": "D"
+ },
+ {
+  "item_id": 2777,
+  "subject": "high_school_biology",
+  "gold": "B"
+ },
+ {
+  "item_id": 12029,
+  "subject": "professional_law",
+  "gold": "A"
+ },
+ {
+  "item_id": 13476,
+  "subject": "sociology",
+  "gold": "D"
+ },
+ {
+  "item_id": 985,
+  "subject": "college_chemistry",
+  "gold": "B"
+ },
+ {
+  "item_id": 1689,
+  "subject": "conceptual_physics",
+  "gold": "B"
+ },
+ {
+  "item_id": 5900,
+  "subject": "high_school_world_history",
+  "gold": "C"
+ },
+ {
+  "item_id": 11994,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 10288,
+  "subject": "prehistory",
+  "gold": "B"
+ },
+ {
+  "item_id": 13810,
+  "subject": "virology",
+  "gold": "B"
+ },
+ {
+  "item_id": 9302,
+  "subject": "moral_scenarios",
+  "gold": "B"
+ },
+ {
+  "item_id": 11337,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 10139,
+  "subject": "prehistory",
+  "gold": "A"
+ },
+ {
+  "item_id": 6967,
+  "subject": "management",
+  "gold": "D"
+ },
+ {
+  "item_id": 6481,
+  "subject": "international_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 11336,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 9835,
+  "subject": "philosophy",
+  "gold": "C"
+ },
+ {
+  "item_id": 8870,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 6340,
+  "subject": "human_sexuality",
+  "gold": "C"
+ },
+ {
+  "item_id": 3421,
+  "subject": "high_school_european_history",
+  "gold": "A"
+ },
+ {
+  "item_id": 8673,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 2783,
+  "subject": "high_school_biology",
+  "gold": "B"
+ },
+ {
+  "item_id": 3503,
+  "subject": "high_school_geography",
+  "gold": "A"
+ },
+ {
+  "item_id": 13138,
+  "subject": "public_relations",
+  "gold": "B"
+ },
+ {
+  "item_id": 11542,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 9687,
+  "subject": "nutrition",
+  "gold": "A"
+ },
+ {
+  "item_id": 8231,
+  "subject": "moral_disputes",
+  "gold": "B"
+ },
+ {
+  "item_id": 4082,
+  "subject": "high_school_macroeconomics",
+  "gold": "D"
+ },
+ {
+  "item_id": 7004,
+  "subject": "management",
+  "gold": "D"
+ },
+ {
+  "item_id": 2819,
+  "subject": "high_school_biology",
+  "gold": "B"
+ },
+ {
+  "item_id": 8668,
+  "subject": "moral_scenarios",
+  "gold": "B"
+ },
+ {
+  "item_id": 9620,
+  "subject": "nutrition",
+  "gold": "A"
+ },
+ {
+  "item_id": 1509,
+  "subject": "computer_security",
+  "gold": "A"
+ },
+ {
+  "item_id": 1550,
+  "subject": "computer_security",
+  "gold": "C"
+ },
+ {
+  "item_id": 2207,
+  "subject": "elementary_mathematics",
+  "gold": "D"
+ },
+ {
+  "item_id": 11346,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 4041,
+  "subject": "high_school_macroeconomics",
+  "gold": "D"
+ },
+ {
+  "item_id": 3115,
+  "subject": "high_school_chemistry",
+  "gold": "C"
+ },
+ {
+  "item_id": 13098,
+  "subject": "public_relations",
+  "gold": "B"
+ },
+ {
+  "item_id": 13856,
+  "subject": "virology",
+  "gold": "D"
+ },
+ {
+  "item_id": 10077,
+  "subject": "prehistory",
+  "gold": "C"
+ },
+ {
+  "item_id": 7521,
+  "subject": "miscellaneous",
+  "gold": "C"
+ },
+ {
+  "item_id": 859,
+  "subject": "college_biology",
+  "gold": "A"
+ },
+ {
+  "item_id": 2004,
+  "subject": "electrical_engineering",
+  "gold": "A"
+ },
+ {
+  "item_id": 8517,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 1022,
+  "subject": "college_computer_science",
+  "gold": "C"
+ },
+ {
+  "item_id": 2587,
+  "subject": "global_facts",
+  "gold": "C"
+ },
+ {
+  "item_id": 9209,
+  "subject": "moral_scenarios",
+  "gold": "C"
+ },
+ {
+  "item_id": 9930,
+  "subject": "philosophy",
+  "gold": "D"
+ },
+ {
+  "item_id": 12467,
+  "subject": "professional_psychology",
+  "gold": "B"
+ },
+ {
+  "item_id": 996,
+  "subject": "college_computer_science",
+  "gold": "A"
+ },
+ {
+  "item_id": 2470,
+  "subject": "formal_logic",
+  "gold": "A"
+ },
+ {
+  "item_id": 10244,
+  "subject": "prehistory",
+  "gold": "A"
+ },
+ {
+  "item_id": 13024,
+  "subject": "professional_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 5115,
+  "subject": "high_school_psychology",
+  "gold": "B"
+ },
+ {
+  "item_id": 12236,
+  "subject": "professional_medicine",
+  "gold": "B"
+ },
+ {
+  "item_id": 12641,
+  "subject": "professional_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 6669,
+  "subject": "jurisprudence",
+  "gold": "C"
+ },
+ {
+  "item_id": 4455,
+  "subject": "high_school_mathematics",
+  "gold": "B"
+ },
+ {
+  "item_id": 2032,
+  "subject": "electrical_engineering",
+  "gold": "B"
+ },
+ {
+  "item_id": 2368,
+  "subject": "elementary_mathematics",
+  "gold": "D"
+ },
+ {
+  "item_id": 765,
+  "subject": "college_biology",
+  "gold": "D"
+ },
+ {
+  "item_id": 5585,
+  "subject": "high_school_statistics",
+  "gold": "C"
+ },
+ {
+  "item_id": 1603,
+  "subject": "conceptual_physics",
+  "gold": "C"
+ },
+ {
+  "item_id": 2016,
+  "subject": "electrical_engineering",
+  "gold": "A"
+ },
+ {
+  "item_id": 10450,
+  "subject": "professional_accounting",
+  "gold": "C"
+ },
+ {
+  "item_id": 6636,
+  "subject": "jurisprudence",
+  "gold": "D"
+ },
+ {
+  "item_id": 3392,
+  "subject": "high_school_european_history",
+  "gold": "B"
+ },
+ {
+  "item_id": 9048,
+  "subject": "moral_scenarios",
+  "gold": "C"
+ },
+ {
+  "item_id": 11584,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 9286,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 256,
+  "subject": "astronomy",
+  "gold": "D"
+ },
+ {
+  "item_id": 4211,
+  "subject": "high_school_macroeconomics",
+  "gold": "D"
+ },
+ {
+  "item_id": 7756,
+  "subject": "miscellaneous",
+  "gold": "C"
+ },
+ {
+  "item_id": 4719,
+  "subject": "high_school_microeconomics",
+  "gold": "A"
+ },
+ {
+  "item_id": 11408,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 2913,
+  "subject": "high_school_biology",
+  "gold": "D"
+ },
+ {
+  "item_id": 5398,
+  "subject": "high_school_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 10471,
+  "subject": "professional_accounting",
+  "gold": "C"
+ },
+ {
+  "item_id": 4187,
+  "subject": "high_school_macroeconomics",
+  "gold": "A"
+ },
+ {
+  "item_id": 2841,
+  "subject": "high_school_biology",
+  "gold": "A"
+ },
+ {
+  "item_id": 4251,
+  "subject": "high_school_mathematics",
+  "gold": "B"
+ },
+ {
+  "item_id": 9758,
+  "subject": "philosophy",
+  "gold": "C"
+ },
+ {
+  "item_id": 11613,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 3596,
+  "subject": "high_school_geography",
+  "gold": "A"
+ },
+ {
+  "item_id": 4488,
+  "subject": "high_school_mathematics",
+  "gold": "D"
+ },
+ {
+  "item_id": 3674,
+  "subject": "high_school_government_and_politics",
+  "gold": "A"
+ },
+ {
+  "item_id": 4217,
+  "subject": "high_school_macroeconomics",
+  "gold": "B"
+ },
+ {
+  "item_id": 3161,
+  "subject": "high_school_chemistry",
+  "gold": "C"
+ },
+ {
+  "item_id": 780,
+  "subject": "college_biology",
+  "gold": "A"
+ },
+ {
+  "item_id": 12059,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 4747,
+  "subject": "high_school_physics",
+  "gold": "D"
+ },
+ {
+  "item_id": 1251,
+  "subject": "college_medicine",
+  "gold": "B"
+ },
+ {
+  "item_id": 8375,
+  "subject": "moral_disputes",
+  "gold": "B"
+ },
+ {
+  "item_id": 12730,
+  "subject": "professional_psychology",
+  "gold": "B"
+ },
+ {
+  "item_id": 483,
+  "subject": "business_ethics",
+  "gold": "C"
+ },
+ {
+  "item_id": 8524,
+  "subject": "moral_scenarios",
+  "gold": "B"
+ },
+ {
+  "item_id": 6240,
+  "subject": "human_aging",
+  "gold": "B"
+ },
+ {
+  "item_id": 4146,
+  "subject": "high_school_macroeconomics",
+  "gold": "D"
+ },
+ {
+  "item_id": 9019,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 3181,
+  "subject": "high_school_chemistry",
+  "gold": "B"
+ },
+ {
+  "item_id": 4152,
+  "subject": "high_school_macroeconomics",
+  "gold": "B"
+ },
+ {
+  "item_id": 9029,
+  "subject": "moral_scenarios",
+  "gold": "A"
+ },
+ {
+  "item_id": 4743,
+  "subject": "high_school_physics",
+  "gold": "C"
+ },
+ {
+  "item_id": 13736,
+  "subject": "virology",
+  "gold": "C"
+ },
+ {
+  "item_id": 11203,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 6045,
+  "subject": "high_school_world_history",
+  "gold": "D"
+ },
+ {
+  "item_id": 9391,
+  "subject": "moral_scenarios",
+  "gold": "B"
+ },
+ {
+  "item_id": 3434,
+  "subject": "high_school_european_history",
+  "gold": "D"
+ },
+ {
+  "item_id": 1140,
+  "subject": "college_mathematics",
+  "gold": "D"
+ },
+ {
+  "item_id": 13193,
+  "subject": "security_studies",
+  "gold": "A"
+ },
+ {
+  "item_id": 6754,
+  "subject": "logical_fallacies",
+  "gold": "B"
+ },
+ {
+  "item_id": 3786,
+  "subject": "high_school_government_and_politics",
+  "gold": "D"
+ },
+ {
+  "item_id": 2993,
+  "subject": "high_school_chemistry",
+  "gold": "D"
+ },
+ {
+  "item_id": 4553,
+  "subject": "high_school_microeconomics",
+  "gold": "A"
+ },
+ {
+  "item_id": 3793,
+  "subject": "high_school_government_and_politics",
+  "gold": "C"
+ },
+ {
+  "item_id": 5716,
+  "subject": "high_school_us_history",
+  "gold": "D"
+ },
+ {
+  "item_id": 6728,
+  "subject": "logical_fallacies",
+  "gold": "B"
+ },
+ {
+  "item_id": 7281,
+  "subject": "marketing",
+  "gold": "A"
+ },
+ {
+  "item_id": 9499,
+  "subject": "nutrition",
+  "gold": "A"
+ },
+ {
+  "item_id": 8084,
+  "subject": "miscellaneous",
+  "gold": "C"
+ },
+ {
+  "item_id": 5769,
+  "subject": "high_school_us_history",
+  "gold": "B"
+ },
+ {
+  "item_id": 11117,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 7794,
+  "subject": "miscellaneous",
+  "gold": "D"
+ },
+ {
+  "item_id": 7968,
+  "subject": "miscellaneous",
+  "gold": "B"
+ },
+ {
+  "item_id": 12768,
+  "subject": "professional_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 2865,
+  "subject": "high_school_biology",
+  "gold": "B"
+ },
+ {
+  "item_id": 4871,
+  "subject": "high_school_physics",
+  "gold": "C"
+ },
+ {
+  "item_id": 5400,
+  "subject": "high_school_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 11482,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 709,
+  "subject": "clinical_knowledge",
+  "gold": "A"
+ },
+ {
+  "item_id": 6310,
+  "subject": "human_aging",
+  "gold": "B"
+ },
+ {
+  "item_id": 12251,
+  "subject": "professional_medicine",
+  "gold": "B"
+ },
+ {
+  "item_id": 2894,
+  "subject": "high_school_biology",
+  "gold": "A"
+ },
+ {
+  "item_id": 11680,
+  "subject": "professional_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 6634,
+  "subject": "jurisprudence",
+  "gold": "C"
+ },
+ {
+  "item_id": 13374,
+  "subject": "security_studies",
+  "gold": "D"
+ },
+ {
+  "item_id": 3313,
+  "subject": "high_school_european_history",
+  "gold": "D"
+ },
+ {
+  "item_id": 10124,
+  "subject": "prehistory",
+  "gold": "C"
+ },
+ {
+  "item_id": 1430,
+  "subject": "college_physics",
+  "gold": "A"
+ },
+ {
+  "item_id": 6971,
+  "subject": "management",
+  "gold": "D"
+ },
+ {
+  "item_id": 5024,
+  "subject": "high_school_psychology",
+  "gold": "B"
+ },
+ {
+  "item_id": 8880,
+  "subject": "moral_scenarios",
+  "gold": "A"
+ },
+ {
+  "item_id": 11903,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 7070,
+  "subject": "marketing",
+  "gold": "C"
+ },
+ {
+  "item_id": 11290,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 2174,
+  "subject": "elementary_mathematics",
+  "gold": "B"
+ },
+ {
+  "item_id": 8511,
+  "subject": "moral_disputes",
+  "gold": "C"
+ },
+ {
+  "item_id": 718,
+  "subject": "clinical_knowledge",
+  "gold": "D"
+ },
+ {
+  "item_id": 2591,
+  "subject": "global_facts",
+  "gold": "D"
+ },
+ {
+  "item_id": 12899,
+  "subject": "professional_psychology",
+  "gold": "B"
+ },
+ {
+  "item_id": 9218,
+  "subject": "moral_scenarios",
+  "gold": "C"
+ },
+ {
+  "item_id": 10259,
+  "subject": "prehistory",
+  "gold": "A"
+ },
+ {
+  "item_id": 2985,
+  "subject": "high_school_chemistry",
+  "gold": "C"
+ },
+ {
+  "item_id": 10783,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 7450,
+  "subject": "miscellaneous",
+  "gold": "A"
+ },
+ {
+  "item_id": 7894,
+  "subject": "miscellaneous",
+  "gold": "D"
+ },
+ {
+  "item_id": 469,
+  "subject": "business_ethics",
+  "gold": "D"
+ },
+ {
+  "item_id": 8054,
+  "subject": "miscellaneous",
+  "gold": "C"
+ },
+ {
+  "item_id": 5251,
+  "subject": "high_school_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 1722,
+  "subject": "conceptual_physics",
+  "gold": "A"
+ },
+ {
+  "item_id": 8336,
+  "subject": "moral_disputes",
+  "gold": "C"
+ },
+ {
+  "item_id": 5977,
+  "subject": "high_school_world_history",
+  "gold": "A"
+ },
+ {
+  "item_id": 7100,
+  "subject": "marketing",
+  "gold": "A"
+ },
+ {
+  "item_id": 5,
+  "subject": "abstract_algebra",
+  "gold": "A"
+ },
+ {
+  "item_id": 10372,
+  "subject": "professional_accounting",
+  "gold": "C"
+ },
+ {
+  "item_id": 4921,
+  "subject": "high_school_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 11318,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 2040,
+  "subject": "electrical_engineering",
+  "gold": "D"
+ },
+ {
+  "item_id": 1451,
+  "subject": "college_physics",
+  "gold": "A"
+ },
+ {
+  "item_id": 8102,
+  "subject": "miscellaneous",
+  "gold": "C"
+ },
+ {
+  "item_id": 1712,
+  "subject": "conceptual_physics",
+  "gold": "C"
+ },
+ {
+  "item_id": 5357,
+  "subject": "high_school_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 2583,
+  "subject": "global_facts",
+  "gold": "B"
+ },
+ {
+  "item_id": 12836,
+  "subject": "professional_psychology",
+  "gold": "C"
+ },
+ {
+  "item_id": 8769,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 11400,
+  "subject": "professional_law",
+  "gold": "A"
+ },
+ {
+  "item_id": 12664,
+  "subject": "professional_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 1261,
+  "subject": "college_medicine",
+  "gold": "D"
+ },
+ {
+  "item_id": 2932,
+  "subject": "high_school_biology",
+  "gold": "C"
+ },
+ {
+  "item_id": 10892,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 5232,
+  "subject": "high_school_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 3753,
+  "subject": "high_school_government_and_politics",
+  "gold": "D"
+ },
+ {
+  "item_id": 829,
+  "subject": "college_biology",
+  "gold": "A"
+ },
+ {
+  "item_id": 8254,
+  "subject": "moral_disputes",
+  "gold": "D"
+ },
+ {
+  "item_id": 12627,
+  "subject": "professional_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 7274,
+  "subject": "marketing",
+  "gold": "A"
+ },
+ {
+  "item_id": 6827,
+  "subject": "logical_fallacies",
+  "gold": "C"
+ },
+ {
+  "item_id": 7908,
+  "subject": "miscellaneous",
+  "gold": "A"
+ },
+ {
+  "item_id": 12832,
+  "subject": "professional_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 8666,
+  "subject": "moral_scenarios",
+  "gold": "C"
+ },
+ {
+  "item_id": 7972,
+  "subject": "miscellaneous",
+  "gold": "D"
+ },
+ {
+  "item_id": 4256,
+  "subject": "high_school_mathematics",
+  "gold": "C"
+ },
+ {
+  "item_id": 7468,
+  "subject": "miscellaneous",
+  "gold": "C"
+ },
+ {
+  "item_id": 13071,
+  "subject": "public_relations",
+  "gold": "B"
+ },
+ {
+  "item_id": 11252,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 12941,
+  "subject": "professional_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 2534,
+  "subject": "formal_logic",
+  "gold": "A"
+ },
+ {
+  "item_id": 2885,
+  "subject": "high_school_biology",
+  "gold": "C"
+ },
+ {
+  "item_id": 8876,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 10744,
+  "subject": "professional_law",
+  "gold": "A"
+ },
+ {
+  "item_id": 3940,
+  "subject": "high_school_macroeconomics",
+  "gold": "B"
+ },
+ {
+  "item_id": 4766,
+  "subject": "high_school_physics",
+  "gold": "A"
+ },
+ {
+  "item_id": 8275,
+  "subject": "moral_disputes",
+  "gold": "A"
+ },
+ {
+  "item_id": 6651,
+  "subject": "jurisprudence",
+  "gold": "D"
+ },
+ {
+  "item_id": 9948,
+  "subject": "philosophy",
+  "gold": "D"
+ },
+ {
+  "item_id": 8997,
+  "subject": "moral_scenarios",
+  "gold": "C"
+ },
+ {
+  "item_id": 11466,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 8064,
+  "subject": "miscellaneous",
+  "gold": "B"
+ },
+ {
+  "item_id": 3858,
+  "subject": "high_school_macroeconomics",
+  "gold": "D"
+ },
+ {
+  "item_id": 4031,
+  "subject": "high_school_macroeconomics",
+  "gold": "C"
+ },
+ {
+  "item_id": 12615,
+  "subject": "professional_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 2318,
+  "subject": "elementary_mathematics",
+  "gold": "B"
+ },
+ {
+  "item_id": 7769,
+  "subject": "miscellaneous",
+  "gold": "D"
+ },
+ {
+  "item_id": 255,
+  "subject": "astronomy",
+  "gold": "D"
+ },
+ {
+  "item_id": 11153,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 9021,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 8610,
+  "subject": "moral_scenarios",
+  "gold": "B"
+ },
+ {
+  "item_id": 3900,
+  "subject": "high_school_macroeconomics",
+  "gold": "D"
+ },
+ {
+  "item_id": 5801,
+  "subject": "high_school_us_history",
+  "gold": "D"
+ },
+ {
+  "item_id": 5199,
+  "subject": "high_school_psychology",
+  "gold": "B"
+ },
+ {
+  "item_id": 935,
+  "subject": "college_chemistry",
+  "gold": "A"
+ },
+ {
+  "item_id": 344,
+  "subject": "astronomy",
+  "gold": "B"
+ },
+ {
+  "item_id": 1942,
+  "subject": "electrical_engineering",
+  "gold": "B"
+ },
+ {
+  "item_id": 10336,
+  "subject": "prehistory",
+  "gold": "D"
+ },
+ {
+  "item_id": 1850,
+  "subject": "econometrics",
+  "gold": "A"
+ },
+ {
+  "item_id": 4430,
+  "subject": "high_school_mathematics",
+  "gold": "D"
+ },
+ {
+  "item_id": 9364,
+  "subject": "moral_scenarios",
+  "gold": "A"
+ },
+ {
+  "item_id": 3294,
+  "subject": "high_school_european_history",
+  "gold": "C"
+ },
+ {
+  "item_id": 5631,
+  "subject": "high_school_statistics",
+  "gold": "A"
+ },
+ {
+  "item_id": 12956,
+  "subject": "professional_psychology",
+  "gold": "B"
+ },
+ {
+  "item_id": 5064,
+  "subject": "high_school_psychology",
+  "gold": "B"
+ },
+ {
+  "item_id": 7003,
+  "subject": "management",
+  "gold": "D"
+ },
+ {
+  "item_id": 9791,
+  "subject": "philosophy",
+  "gold": "B"
+ },
+ {
+  "item_id": 5229,
+  "subject": "high_school_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 13661,
+  "subject": "us_foreign_policy",
+  "gold": "A"
+ },
+ {
+  "item_id": 13904,
+  "subject": "world_religions",
+  "gold": "A"
+ },
+ {
+  "item_id": 5608,
+  "subject": "high_school_statistics",
+  "gold": "D"
+ },
+ {
+  "item_id": 2648,
+  "subject": "global_facts",
+  "gold": "B"
+ },
+ {
+  "item_id": 6660,
+  "subject": "jurisprudence",
+  "gold": "C"
+ },
+ {
+  "item_id": 9871,
+  "subject": "philosophy",
+  "gold": "C"
+ },
+ {
+  "item_id": 607,
+  "subject": "clinical_knowledge",
+  "gold": "B"
+ },
+ {
+  "item_id": 1452,
+  "subject": "college_physics",
+  "gold": "D"
+ },
+ {
+  "item_id": 4296,
+  "subject": "high_school_mathematics",
+  "gold": "D"
+ },
+ {
+  "item_id": 5638,
+  "subject": "high_school_statistics",
+  "gold": "D"
+ },
+ {
+  "item_id": 14014,
+  "subject": "world_religions",
+  "gold": "B"
+ },
+ {
+  "item_id": 3877,
+  "subject": "high_school_macroeconomics",
+  "gold": "C"
+ },
+ {
+  "item_id": 273,
+  "subject": "astronomy",
+  "gold": "B"
+ },
+ {
+  "item_id": 4260,
+  "subject": "high_school_mathematics",
+  "gold": "D"
+ },
+ {
+  "item_id": 3938,
+  "subject": "high_school_macroeconomics",
+  "gold": "A"
+ },
+ {
+  "item_id": 2426,
+  "subject": "elementary_mathematics",
+  "gold": "C"
+ },
+ {
+  "item_id": 1093,
+  "subject": "college_computer_science",
+  "gold": "D"
+ },
+ {
+  "item_id": 6596,
+  "subject": "jurisprudence",
+  "gold": "A"
+ },
+ {
+  "item_id": 430,
+  "subject": "business_ethics",
+  "gold": "B"
+ },
+ {
+  "item_id": 7144,
+  "subject": "marketing",
+  "gold": "D"
+ },
+ {
+  "item_id": 6537,
+  "subject": "international_law",
+  "gold": "B"
+ },
+ {
+  "item_id": 9804,
+  "subject": "philosophy",
+  "gold": "B"
+ },
+ {
+  "item_id": 3059,
+  "subject": "high_school_chemistry",
+  "gold": "B"
+ },
+ {
+  "item_id": 345,
+  "subject": "astronomy",
+  "gold": "B"
+ },
+ {
+  "item_id": 11696,
+  "subject": "professional_law",
+  "gold": "A"
+ },
+ {
+  "item_id": 9916,
+  "subject": "philosophy",
+  "gold": "B"
+ },
+ {
+  "item_id": 4945,
+  "subject": "high_school_psychology",
+  "gold": "B"
+ },
+ {
+  "item_id": 5027,
+  "subject": "high_school_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 4633,
+  "subject": "high_school_microeconomics",
+  "gold": "C"
+ },
+ {
+  "item_id": 12991,
+  "subject": "professional_psychology",
+  "gold": "C"
+ },
+ {
+  "item_id": 12979,
+  "subject": "professional_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 12862,
+  "subject": "professional_psychology",
+  "gold": "C"
+ },
+ {
+  "item_id": 12422,
+  "subject": "professional_medicine",
+  "gold": "D"
+ },
+ {
+  "item_id": 1606,
+  "subject": "conceptual_physics",
+  "gold": "A"
+ },
+ {
+  "item_id": 489,
+  "subject": "clinical_knowledge",
+  "gold": "A"
+ },
+ {
+  "item_id": 1319,
+  "subject": "college_medicine",
+  "gold": "B"
+ },
+ {
+  "item_id": 6413,
+  "subject": "human_sexuality",
+  "gold": "C"
+ },
+ {
+  "item_id": 9569,
+  "subject": "nutrition",
+  "gold": "A"
+ },
+ {
+  "item_id": 1175,
+  "subject": "college_mathematics",
+  "gold": "B"
+ },
+ {
+  "item_id": 5527,
+  "subject": "high_school_statistics",
+  "gold": "D"
+ },
+ {
+  "item_id": 8219,
+  "subject": "moral_disputes",
+  "gold": "A"
+ },
+ {
+  "item_id": 13994,
+  "subject": "world_religions",
+  "gold": "C"
+ },
+ {
+  "item_id": 2975,
+  "subject": "high_school_biology",
+  "gold": "B"
+ },
+ {
+  "item_id": 11645,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 10444,
+  "subject": "professional_accounting",
+  "gold": "C"
+ },
+ {
+  "item_id": 917,
+  "subject": "college_chemistry",
+  "gold": "D"
+ },
+ {
+  "item_id": 6238,
+  "subject": "human_aging",
+  "gold": "C"
+ },
+ {
+  "item_id": 11241,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 2671,
+  "subject": "high_school_biology",
+  "gold": "C"
+ },
+ {
+  "item_id": 998,
+  "subject": "college_computer_science",
+  "gold": "B"
+ },
+ {
+  "item_id": 5365,
+  "subject": "high_school_psychology",
+  "gold": "C"
+ },
+ {
+  "item_id": 5956,
+  "subject": "high_school_world_history",
+  "gold": "C"
+ },
+ {
+  "item_id": 5615,
+  "subject": "high_school_statistics",
+  "gold": "D"
+ },
+ {
+  "item_id": 8597,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 5437,
+  "subject": "high_school_statistics",
+  "gold": "D"
+ },
+ {
+  "item_id": 11339,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 2786,
+  "subject": "high_school_biology",
+  "gold": "A"
+ },
+ {
+  "item_id": 2438,
+  "subject": "elementary_mathematics",
+  "gold": "D"
+ },
+ {
+  "item_id": 314,
+  "subject": "astronomy",
+  "gold": "C"
+ },
+ {
+  "item_id": 12655,
+  "subject": "professional_psychology",
+  "gold": "C"
+ },
+ {
+  "item_id": 8965,
+  "subject": "moral_scenarios",
+  "gold": "A"
+ },
+ {
+  "item_id": 8243,
+  "subject": "moral_disputes",
+  "gold": "B"
+ },
+ {
+  "item_id": 132,
+  "subject": "anatomy",
+  "gold": "B"
+ },
+ {
+  "item_id": 10070,
+  "subject": "prehistory",
+  "gold": "A"
+ },
+ {
+  "item_id": 893,
+  "subject": "college_biology",
+  "gold": "C"
+ },
+ {
+  "item_id": 11778,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 1141,
+  "subject": "college_mathematics",
+  "gold": "A"
+ },
+ {
+  "item_id": 3791,
+  "subject": "high_school_government_and_politics",
+  "gold": "D"
+ },
+ {
+  "item_id": 6590,
+  "subject": "jurisprudence",
+  "gold": "C"
+ },
+ {
+  "item_id": 5306,
+  "subject": "high_school_psychology",
+  "gold": "B"
+ },
+ {
+  "item_id": 1538,
+  "subject": "computer_security",
+  "gold": "A"
+ },
+ {
+  "item_id": 1548,
+  "subject": "computer_security",
+  "gold": "C"
+ },
+ {
+  "item_id": 6349,
+  "subject": "human_sexuality",
+  "gold": "D"
+ },
+ {
+  "item_id": 9674,
+  "subject": "nutrition",
+  "gold": "D"
+ },
+ {
+  "item_id": 6522,
+  "subject": "international_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 2856,
+  "subject": "high_school_biology",
+  "gold": "A"
+ },
+ {
+  "item_id": 886,
+  "subject": "college_biology",
+  "gold": "B"
+ },
+ {
+  "item_id": 12856,
+  "subject": "professional_psychology",
+  "gold": "C"
+ },
+ {
+  "item_id": 5168,
+  "subject": "high_school_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 8575,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 9989,
+  "subject": "philosophy",
+  "gold": "D"
+ },
+ {
+  "item_id": 11023,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 539,
+  "subject": "clinical_knowledge",
+  "gold": "C"
+ },
+ {
+  "item_id": 7180,
+  "subject": "marketing",
+  "gold": "B"
+ },
+ {
+  "item_id": 7266,
+  "subject": "marketing",
+  "gold": "B"
+ },
+ {
+  "item_id": 6028,
+  "subject": "high_school_world_history",
+  "gold": "D"
+ },
+ {
+  "item_id": 6723,
+  "subject": "logical_fallacies",
+  "gold": "B"
+ },
+ {
+  "item_id": 10956,
+  "subject": "professional_law",
+  "gold": "D"
+ },
+ {
+  "item_id": 7365,
+  "subject": "medical_genetics",
+  "gold": "D"
+ },
+ {
+  "item_id": 12333,
+  "subject": "professional_medicine",
+  "gold": "D"
+ },
+ {
+  "item_id": 10568,
+  "subject": "professional_accounting",
+  "gold": "B"
+ },
+ {
+  "item_id": 3892,
+  "subject": "high_school_macroeconomics",
+  "gold": "A"
+ },
+ {
+  "item_id": 5701,
+  "subject": "high_school_us_history",
+  "gold": "D"
+ },
+ {
+  "item_id": 13591,
+  "subject": "sociology",
+  "gold": "B"
+ },
+ {
+  "item_id": 8006,
+  "subject": "miscellaneous",
+  "gold": "B"
+ },
+ {
+  "item_id": 1660,
+  "subject": "conceptual_physics",
+  "gold": "C"
+ },
+ {
+  "item_id": 6839,
+  "subject": "machine_learning",
+  "gold": "A"
+ },
+ {
+  "item_id": 3470,
+  "subject": "high_school_geography",
+  "gold": "D"
+ },
+ {
+  "item_id": 11420,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 7466,
+  "subject": "miscellaneous",
+  "gold": "C"
+ },
+ {
+  "item_id": 7055,
+  "subject": "marketing",
+  "gold": "D"
+ },
+ {
+  "item_id": 4198,
+  "subject": "high_school_macroeconomics",
+  "gold": "A"
+ },
+ {
+  "item_id": 8798,
+  "subject": "moral_scenarios",
+  "gold": "A"
+ },
+ {
+  "item_id": 10322,
+  "subject": "prehistory",
+  "gold": "C"
+ },
+ {
+  "item_id": 4063,
+  "subject": "high_school_macroeconomics",
+  "gold": "A"
+ },
+ {
+  "item_id": 12736,
+  "subject": "professional_psychology",
+  "gold": "C"
+ },
+ {
+  "item_id": 5103,
+  "subject": "high_school_psychology",
+  "gold": "A"
+ },
+ {
+  "item_id": 5164,
+  "subject": "high_school_psychology",
+  "gold": "D"
+ },
+ {
+  "item_id": 2389,
+  "subject": "elementary_mathematics",
+  "gold": "B"
+ },
+ {
+  "item_id": 10238,
+  "subject": "prehistory",
+  "gold": "D"
+ },
+ {
+  "item_id": 8286,
+  "subject": "moral_disputes",
+  "gold": "B"
+ },
+ {
+  "item_id": 6346,
+  "subject": "human_sexuality",
+  "gold": "C"
+ },
+ {
+  "item_id": 8478,
+  "subject": "moral_disputes",
+  "gold": "D"
+ },
+ {
+  "item_id": 8321,
+  "subject": "moral_disputes",
+  "gold": "C"
+ },
+ {
+  "item_id": 4861,
+  "subject": "high_school_physics",
+  "gold": "A"
+ },
+ {
+  "item_id": 5981,
+  "subject": "high_school_world_history",
+  "gold": "B"
+ },
+ {
+  "item_id": 3024,
+  "subject": "high_school_chemistry",
+  "gold": "A"
+ },
+ {
+  "item_id": 10297,
+  "subject": "prehistory",
+  "gold": "C"
+ },
+ {
+  "item_id": 7103,
+  "subject": "marketing",
+  "gold": "D"
+ },
+ {
+  "item_id": 7263,
+  "subject": "marketing",
+  "gold": "D"
+ },
+ {
+  "item_id": 369,
+  "subject": "astronomy",
+  "gold": "D"
+ },
+ {
+  "item_id": 13893,
+  "subject": "world_religions",
+  "gold": "A"
+ },
+ {
+  "item_id": 11058,
+  "subject": "professional_law",
+  "gold": "C"
+ },
+ {
+  "item_id": 8710,
+  "subject": "moral_scenarios",
+  "gold": "D"
+ },
+ {
+  "item_id": 7297,
+  "subject": "medical_genetics",
+  "gold": "D"
+ }
+]
